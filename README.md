@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TorosKhat
 - 👀 I’m interested in game engines such as Unity, Godot, Unreal and more, video games, Game Development and design, art such as digital art and pixel art and studying on topics. 
-- 🌱 I’m currently learning dungeon generation in a platformer environment, improving my unity game engine skills such as coding, designing and more.
+- 🌱 I’m currently learning Godot, visual scripting, 3D modeling and more.
 - 💞️ I’m looking to collaborate on other game projects that people are currently working such as playtesting, debugging and level design.
 - 📫 Reach me through Discord, Gmail and Outlook.
 - 😄 Pronouns: IDC.
