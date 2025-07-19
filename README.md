@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TorosKhat and a founder of Raycatz Studios
+- 👋 Hi, I’m @TorosKhat and I'm a founder of Raycatz Studios
 - 💞️ I’m looking to collaborate on other game projects that people are currently working such as playtesting, debugging and more.
 
 <!---
